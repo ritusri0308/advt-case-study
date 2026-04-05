@@ -77,8 +77,7 @@ The dashboard includes the following visualizations:
 ## 📌 Notes
 
 * The dashboard is designed as per assignment requirements
-* Power BI Desktop is required for full functionality (if using local file)
-* Online version (if provided) allows easy access without installation
+* Power BI Desktop is required for full functionality
 
 ---
 
